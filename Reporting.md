@@ -4,7 +4,7 @@
 ### Répartition des tâches:
 ### -Nathan code la rasberry pi pour récupérer les données des capteurs (Lidar, acceleromètre) et réalise un plan d'avancement du projet
 ### -Mahdi et Romain commencent la réalisation la conception 3D du robot (base et plateau)
-### -Brayan, Victor et Isabelle cherchent les algorithmes pour faire ROS et Lidar. Découverte Gazebo 
+### -Bryan, Victor et Isabelle cherchent les algorithmes pour faire ROS et Lidar. Découverte Gazebo 
 ### Victor structure git
 ### Romain structure OnShape et les pièces à réaliser
 

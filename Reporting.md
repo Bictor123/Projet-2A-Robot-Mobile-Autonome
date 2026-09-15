@@ -9,8 +9,7 @@
 ### -Romain structure OnShape et les pièces à réaliser
 
 ### A faire la prochaine séance : 
-### - Nathan et Victor listent les références exactes des composants et leur nombre (drivers, roues, caméra)
-### - Déduire la nécessité de faire un PCB pour les moteurs
+### - Déduire la nécessité de faire un PCB pour les moteurs en listant les références exactes des composants et leur nombre (drivers, roues, caméra) (Nathan et Victor)
 ### - Trouver le centre de gravité du robot
 ### - continuer la conception 3D (Mahdi Romain)
 ### - continuer les recherches d'algorithmes(Bryan, Victor et Isabelle)

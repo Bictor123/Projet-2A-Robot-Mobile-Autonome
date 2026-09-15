@@ -13,7 +13,6 @@
 ### - Trouver le centre de gravité du robot
 ### - continuer la conception 3D (Mahdi Romain)
 ### - continuer les recherches d'algorithmes(Bryan, Victor et Isabelle)
-### - continuer les recherches ROS et Lidar et Gazebo (Bryan, Isabelle)
-### - prise en main de ROS (Bryan, Isabelle)
+### - prise en main de ROS (Bryan, Isabelle)+ recherches ROS et Lidar et Gazebo (Bryan, Isabelle)
 
 

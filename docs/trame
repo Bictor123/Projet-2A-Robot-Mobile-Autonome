@@ -1,5 +1,0 @@
-Recherche des tâches que nous devrons réaliser dans ce projet.
-Répartition des tâches:
--Nathan code la rasberry pi pour récupérer les données des capteurs (Lidar, acceleromètre) et réalise un plan d'avancement du projet
--Mahdi et Romain réalise la conception 3D du robot (base et plateau)
--Rayan, Victor et Isabelle cherche les algorithmes pour faire ROS et Lidar

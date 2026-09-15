@@ -1,0 +1,43 @@
+## Pôle 1 : Mécanique & Châssis (Hardware)
+Ce pôle concerne tout ce qui est physique et imprimé en 3D.
+
+Tâche 1 : Modélisation 3D (CAO) de la base roulante (châssis principal et fixation des moteurs).
+
+Tâche 2 : Modélisation des supports pour les capteurs (support surélevé pour le YDLidar X4 pour éviter les angles morts, support caméra, support IMU).
+
+Tâche 3 : Conception de l'agencement interne (fixation de la Raspberry Pi 5, de la carte STM32/Arduino et des batteries).
+
+Tâche 4 : Impression 3D et assemblage mécanique du robot.
+
+## Pôle 2 : Électronique & Contrôle Bas Niveau (Firmware)
+Ce pôle concerne la carte de contrôle (STM32 ou Arduino) qui gère les muscles (moteurs) et les réflexes (capteurs de base).
+
+Tâche 5 : Schéma de câblage et distribution d'alimentation (relier la batterie à la Pi 5, à la STM32 et aux drivers moteurs).
+
+Tâche 6 : Code d'asservissement des moteurs (lire les roues codeuses, appliquer un correcteur PID pour que le robot roule droit).
+
+Tâche 7 : Intégration de l'IMU (centrale inertielle) pour récupérer les données d'accélération et d'orientation.
+
+Tâche 8 : Calcul de l'odométrie (estimer le déplacement du robot à partir de la rotation des roues) sur la STM32/Arduino.
+
+## Pôle 3 : Cœur de système & Capteurs (Raspberry Pi 5)
+Ce pôle prépare le "cerveau" du robot pour qu'il puisse exécuter les algorithmes complexes.
+
+Tâche 9 : Installation de l'OS (Ubuntu) et de ROS 2 sur la Raspberry Pi 5.
+
+Tâche 10 : Configuration de la communication entre la Raspberry Pi 5 et la STM32/Arduino (via Serial ou micro-ROS).
+
+Tâche 11 : Intégration logicielle du Lidar YDLidar X4 (installer les drivers ROS 2 et visualiser les points dans RViz).
+
+Tâche 12 : Intégration logicielle de la caméra.
+
+## Pôle 4 : Navigation Autonome & SLAM (Software ROS 2)
+C'est la partie algorithmique, là où la magie opère pour aller du point A au point B en évitant les obstacles.
+
+Tâche 13 : Mise en place d'un algorithme de SLAM (ex: SLAM Toolbox ou Cartographer) pour construire la carte de la pièce avec le Lidar.
+
+Tâche 14 : Configuration du package de navigation (ex: Nav2 sous ROS 2).
+
+Tâche 15 : Réglage de l'évitement d'obstacles local (détecter un obstacle imprévu et le contourner).
+
+Tâche 16 : Test final : donner une coordonnée (point B) sur la carte et laisser le robot s'y rendre de manière autonome.

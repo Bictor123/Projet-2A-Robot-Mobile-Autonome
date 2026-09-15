@@ -1,0 +1,24 @@
+```text
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ROS 2 / C++ Build files
+/software/build/
+/software/install/
+/software/log/
+*.o
+*.so
+
+# Python
+__pycache__/
+*.pyc
+
+# Arduino / STM32 Build files
+*.hex
+*.elf
+*.bin
+
+# CAD temporary files
+~$*.sldprt
+~$*.sldasm

@@ -11,7 +11,7 @@
 ### A faire la prochaine séance : 
 ### - PCB pour les moteurs
 ### - continuer la conception 3D (Mahdi Romain)
-### - continuer les recherches d'algorithmes(Brayan, Victor et Isabelle
+### - continuer les recherches d'algorithmes(Bryan, Victor et Isabelle)
 ### - continuer les recherches ROS et Lidar et Gazebo (Bryan)
 ###  - prise en main de ROS (Bryan)
 

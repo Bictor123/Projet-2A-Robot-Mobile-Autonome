@@ -2,7 +2,7 @@
 
 ### Recherche des tâches que nous devrons réaliser dans ce projet.
 ### Répartition des tâches:
-### -Nathan a réalisé un plan d'avancement du projet
+### -Nathan a listé les grandes lignes directives à réaliser
 ### -Mahdi et Romain commencent la réalisation la conception 3D du robot (base et plateau)
 ### -Bryan, Victor, Nathan et Isabelle cherchent les algorithmes pour faire ROS et Lidar. Découverte Gazebo 
 ### -Victor structure git

@@ -8,6 +8,12 @@
 ### -Victor structure git
 ### -Romain structure OnShape et les pièces à réaliser
 
+
+
+
+
+
+
 ### A faire la prochaine séance : 
 ### - Déduire la nécessité de faire un PCB pour les moteurs en listant les références exactes des composants et leur nombre (drivers, roues, caméra) (Nathan et Victor)
 ### - Trouver le centre de gravité du robot

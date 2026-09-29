@@ -7,6 +7,8 @@
 ### - continuer la conception 3D (Mahdi Romain)
 #### modélisation et impression du support du lidar en prévision d'un test
 ### - continuer ROS, test lidar et installation des drivers adéquats
+### - Développer une application : jeu de nombre aléatoire à deviner
+
 
 
 
@@ -17,3 +19,4 @@
 ### - Tester le moteur et les roue avec STM32CubeIDE (suite)
 ### - continuer ROS, test lidar et installation des drivers adéquats
 ### - Dimensionner l'alimentation pour les cartes et moteurs
+### - Finaliser le développement de l'application

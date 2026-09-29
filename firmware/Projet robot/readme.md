@@ -1,0 +1,6 @@
+- Création du projet STM32CubeIDE pour la carte Nucleo-F303K8.
+- Ajustement de l'horloge système (HCLK) à 64 MHz pour une stabilité optimale.
+- Configuration du Timer 2 (TIM2) en mode PWM sur les canaux 1 et 2 avec une fréquence de 1 kHz (Prescaler: 63, Counter Period: 999) pour la gestion de la vitesse des moteurs droit et gauche.
+- Configuration de 4 broches GPIO (PA4, PA5, PA6, PA7) en mode sortie (Output) pour piloter le sens de rotation (Avance/Recule) via les ponts en H.
+- Ajout des fonctions HAL_TIM_PWM_Start() et du code de test basique de contrôle moteur dans la boucle while du main.c.
+- Vérification de la compilation : 0 erreurs, prêt pour l'intégration matérielle.

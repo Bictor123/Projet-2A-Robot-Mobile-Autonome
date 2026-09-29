@@ -14,5 +14,6 @@
 
 ### A faire la prochaine séance : 
 ### - Teser le Lidar et le mapping
-### - Tester le moteur et les roue avec MPLAB IDE (suite)
+### - Tester le moteur et les roue avec STM32CubeIDE (suite)
 ### - continuer ROS, test lidar et installation des drivers adéquats
+### - Dimensionner l'alimentation pour les cartes et moteurs

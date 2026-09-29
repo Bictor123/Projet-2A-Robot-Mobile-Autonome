@@ -1,1 +1,18 @@
+# Séance du mardi 29 Septembre 2026 
 
+### Durant la séance : 
+
+### - Déduire la nécessité de faire un PCB pour les moteurs en listant les références exactes des composants et leur nombre (caméra, IMU) (Nathan et Victor) (plus tard, lors de la conception du robot final)
+### - Tester le moteur et les roue avec MPLAB IDE
+### - continuer la conception 3D (Mahdi Romain)
+#### modélisation et impression du support du lidar en prévision d'un test
+### - continuer ROS, test lidar et installation des drivers adéquats
+
+
+
+
+
+### A faire la prochaine séance : 
+### - Teser le Lidar et le mapping
+### - Tester le moteur et les roue avec MPLAB IDE (suite)
+### - continuer ROS, test lidar et installation des drivers adéquats

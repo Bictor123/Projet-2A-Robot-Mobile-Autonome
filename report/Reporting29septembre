@@ -8,7 +8,11 @@
 #### modélisation et impression du support du lidar en prévision d'un test
 ### - continuer ROS, test lidar et installation des drivers adéquats
 ### - Développer une application : jeu de nombre aléatoire à deviner
-
+### Déplacement du projet STM32 dans le dossier firmware/ et synchronisation sur GitHub. victor 
+### Remplacement de la carte défectueuse par une Nucleo-L432KC et initialisation d'un nouveau projet. victor 
+### Configuration de la communication en I2C avec activation des résistances Pull-Up pour piloter la carte MD25. victor 
+### Écriture du code d'envoi des commandes. victor
+### Résultat validé : La liaison I2C est fonctionnelle et les moteurs tournent physiquement. victor
 
 
 

@@ -12,3 +12,4 @@ This project covers the full robotics pipeline, from mechanical and electronic d
 * **Sensors:** YDLidar X4, IMU, Encoders, Camera
 * **Software:** ROS 2, SLAM (Simultaneous Localization and Mapping), Autonomous Path Planning
 * **Hardware:** Custom 3D-designed mechanical structure, custom power distribution, and motor drivers
+

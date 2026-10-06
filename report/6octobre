@@ -2,4 +2,12 @@
 -L'odométrie est en train d'être géré: le fait de retrouver le mouvement global du robot à partir du mouvement individuel de chaque roue.
 -Problème rencontré au niveau des roues. Quand le programme est lancé, les roues tournent mais à des vitesses différentes et plus on augmente la vitesse des roues
 plus le delta de vitesse est grand. Il y a probablement un coefficient de frottement dans une des moteurs ou bien un réducteur par supposition. 
--LA soudure
+-Des fils se sont désoudés sur la carte qui gère un des 2 moteurs donc ils ont été resoudé.
+
+
+
+Objectif:
+  -Adapter le programme pour que le robot adapte sa vitesse en fonnction de l'orientation
+  -Test de fixation du Lidar et égalmeent son fonctionnement.
+  - Designer la batterie en terme de capacité en adéquation avec les composants que l'on a
+

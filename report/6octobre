@@ -1,0 +1,5 @@
+-Le support pour le Lidar est en pleine impression
+-L'odométrie est en train d'être géré: le fait de retrouver le mouvement global du robot à partir du mouvement individuel de chaque roue.
+-Problème rencontré au niveau des roues. Quand le programme est lancé, les roues tournent mais à des vitesses différentes et plus on augmente la vitesse des roues
+plus le delta de vitesse est grand. Il y a probablement un coefficient de frottement dans une des moteurs ou bien un réducteur par supposition. 
+-LA soudure

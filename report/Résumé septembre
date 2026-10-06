@@ -1,0 +1,13 @@
+Septembre
+
+- Un support pour le Lidar a été réalisé que l'on mettra sur le prototype du robot.
+- Un inventaire de tous les composants qui seront nécessaire pour les organes du robot a été fait pour éventuellement faire des PCB plus tard. 
+- Lidar: la VM qui a été installé et il fonctionne donc est capable de détecter les obstacles. IL est capable de faire un mapping actuellement 
+et donc il faut à présent réussir à réaliser la carte pour le robot.
+Faudra travailler, sur l’odométrie: savoir de combien le robot s'est déplacé et également en focntion de la rotation des roues envoyer l'info au Lidar 
+Une partie slam aussi est à travailler, c'est elle qui va permettre de gérer la cartographie du robot. 
+
+-Il faudra réfléchir au fait que ce n'est qu'un prototype et donc qu'il faudra mettre un support pour gérer l'alimentation. 
+Au final il faudra 2 supports au moins: un pour le Lidar et un autre pour l'alimentation et/ou la Raspberry
+
+-Une application est en train d'être codée sur android pour pouvoir gérer l robot à distance. 

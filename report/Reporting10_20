@@ -6,6 +6,8 @@ Adaptation du modèle 3D
 
 -Code (sous forme de switch case) pour commander le moteur dans les phases d'arrets, de virage et de ligne droite.
 
+-Développé le squellette de l'application avec différentes fenêtres : 
+Accueil, choix des vitesses, caméra live, pause, choix d'une position d'arrivée.
 
 
 A FAIRE pour la prochaine fois
@@ -19,3 +21,8 @@ On va utiliser des cellules de batteries et ce sera fait plus tard, le dernier t
 
 Me concernant (Mahdi), comme je n'ai pas de tâches spécifiques j'ai commencé à me former sur la réalisation de PCB pour pouvoir le faire quand il sera nécessaire
 pour le projet
+
+-Test sur le transfert des données du lidar pour afficher sur la fenêtre 'caméra live' en temps réel (un pc simulera la RP5):
+  - position, vitesse
+  - une petite carte en haut de l'écran qui s'actualise tous les Tupdate pour un temps Tupdate
+  - la même map lorsque la fenêtre 'choix d'une position d'arrivée' est affichée

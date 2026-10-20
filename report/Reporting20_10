@@ -1,0 +1,2 @@
+Dimmensionnement de la batterie : A réaliser lors de la réalisation du projet final, on utilisera des cellules de batterie (par exemple des 3.7V 1.4AH que l'on associera)
+La raspberry pi 5 consommant 1A minimum, avec les moteurs consommant pres d'1A à vitesse maximal, on peut prevoir un besoin de 2A, 12V. Mais avec l'utilisation de cellules de batterie, k'adaptation sera plus aisée

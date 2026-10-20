@@ -10,4 +10,12 @@ Adaptation du modèle 3D
 
 A FAIRE pour la prochaine fois
 -Continuer le code pour piloter les moteurs.
--Création de cables d'alimentation pour pouvoir tester le robot au sol et sur des plus grandes distances.
+-Création de cables d'alimentation pour pouvoir tester le robot au sol et sur des plus grandes distances. 
+La Raspberry consomme à peu près 1A donc il faudra une batterie suffisemment grande pour pouvoir la supporter
+On va utiliser des cellules de batteries et ce sera fait plus tard, le dernier truc.
+
+-Au niveau du Lidar on est maintenant capable de connaitre la distance avec laquelle il s'est déplacée donc l'odométrie et 
+également la navigation est   ssurée: quand on donne une consigne de déplacement il est capable de la suivre
+
+Me concernant (Mahdi), comme je n'ai pas de tâches spécifiques j'ai commencé à me former sur la réalisation de PCB pour pouvoir le faire quand il sera nécessaire
+pour le projet

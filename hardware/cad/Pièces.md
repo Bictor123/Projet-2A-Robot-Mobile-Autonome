@@ -1,4 +1,5 @@
 ### chasis du robot
+Voir [Agencement interne du robot](Agencement_interne.md) pour la proposition d'implantation des cartes et batteries.
 ### support de lidar
 ### support de rasberry
 ### support accelerometre

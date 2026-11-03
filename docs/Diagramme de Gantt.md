@@ -3,8 +3,8 @@ gantt
 
 section 🛠️ 1. Conception Mécanique
 Modélisation CAO base roulante & moteurs    :a1, 2026-11-03, 10d
-Modélisation supports capteurs (Lidar/Cam)  :a2, after a1, 7d
-Conception agencement interne & fixations   :a3, after a2, 7d
+Modélisation supports capteurs (Lidar/Cam)  :a2, after a1, 12d
+Conception agencement interne & fixations   :a3, after a2, 12d
 Impression 3D & assemblage mécanique       :a4, after a3, 10d
 
 section ⚡ 2. Électronique & PCB

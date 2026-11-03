@@ -11,7 +11,7 @@ section ⚡ 2. Électronique & PCB
 Bilan de puissance & schéma d'alimentation   :b1, 2026-11-03, 10d
 Schéma de câblage global (Schematic)         :b2, after b1, 10d
 Listage composants & Routage du PCB         :b3, after b2, 10d
-Validation PCB (par le professeur)           :crit,b3, after b4, 7d
+Validation PCB (par le professeur)           :crit,b4, after b3, 7d
 Soudure composants (CMS & Traversants)       :b5, after b4, 10d
 Tests électriques & validation PCB           :b6, after b5, 10d
 

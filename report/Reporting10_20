@@ -26,3 +26,6 @@ pour le projet
   - position, vitesse
   - une petite carte en haut de l'écran qui s'actualise tous les Tupdate pour un temps Tupdate
   - la même map lorsque la fenêtre 'choix d'une position d'arrivée' est affichée
+  - Il faut une IHM avec 4 boutons pour pouvoir commander les moteurs et voir si les différents blocs de commandes 
+s'exécutent correctement.
+  - 

@@ -10,11 +10,11 @@ Accueil, choix des vitesses, caméra live, pause, choix d'une position d'arrivé
 A FAIRE pour la prochaine fois
 -Continuer le code pour piloter les moteurs pour qu'il soit autonome de l'ordi.
 -Code pour avoir un retour des encodeurs.
--Test des codes pour voir si le robot réalise le chemain souhaiter.
+-Test des codes pour voir si le robot réalise le chemin souhaité.
 
 
--Au niveau du Lidar on est maintenant capable de connaitre la distance avec laquelle il s'est déplacée donc l'odométrie et 
-également la navigation est assurée: quand on donne une consigne de déplacement il est capable de la suivre.
+-Au niveau du Lidar on est maintenant capable de connaitre la distance avec laquelle il s'est déplacé donc l'odométrie et 
+également la navigation est assurées: quand on donne une consigne de déplacement il est capable de la suivre.
 
 Me concernant (Mahdi), comme je n'ai pas de tâches spécifiques j'ai commencé à me former sur la réalisation de PCB pour pouvoir le faire quand il sera nécessaire
 pour le projet

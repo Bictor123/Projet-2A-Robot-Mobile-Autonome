@@ -1,0 +1,34 @@
+Tâches faites: 
+-Liste inventaire de chaque composant important
+
+Application testée sur PC, pas encore converti pour Android
+-Fenêtre 'accueil'
+  * Bouton enter/exit
+- Fenêtre 'choix de la vitesse'
+	* Menu déroulant pour une vitesse de 0 à 20km/h à choisir
+	* Bouton démarrer
+- Fenêtre 'live'
+	- Flux caméra PC
+	- Bouton Pause pour choisir une nouvelle position à s'y rendre
+- Fenêtre 'NewPosition' overlay sur fenêtre 'live'
+	- Choix nouvelle position avec une croix rouge
+	-Bouton retour
+
+
+à faire
+-Application commande avec simple touche
+	*Fenêtre commande : 4 flèches (avant, arrière, gauche, droite)
+	*Connexion blutooth avec robot libre (qui peut se déplacer sans générateur bleue)
+
+-Application finale buldozer avec
+	*Fenêtre 'live'
+		-Ajouter les données du lidar grâce à la RP5
+		  *Mini carte simple montrant les obstacles
+		-Ajouter les données de l'IMU grâce à la RP5
+		  * Position x, y 
+		  * Vitesse
+		  * Temps écoulé
+	*Fenêtre 'NewPosition' overlay sur fenêtre 'live'
+		-Ajouter les données du lidar grâce à la RP5
+		  *Mini carte simple montrant les obstacles- 
+		  -Bouton 'valider nouvelle position' activé quand croix rouge est affichée à l'écran

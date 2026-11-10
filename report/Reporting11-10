@@ -1,1 +1,24 @@
+Recherche pour rendre le code autonome du PC non concluant donc choix de se rabattre sur la Raspberry Pi5
+Installation/recherches lié à la réalisation des communication UART entre Raspeberry Pi5 et STM32
 
+
+
+A FAIRE pour la prochaine fois
+-Lier RaspberryPi5 et STM32 pour le controle des moteurs à distance (+application?)
+-Code pour avoir un retour des encodeurs.
+-Test des codes pour voir si le robot réalise le chemin souhaité.
+
+
+-Au niveau du Lidar on est maintenant capable de connaitre la distance avec laquelle il s'est déplacé donc l'odométrie et 
+également la navigation est assurées: quand on donne une consigne de déplacement il est capable de la suivre.
+
+Me concernant (Mahdi), comme je n'ai pas de tâches spécifiques j'ai commencé à me former sur la réalisation de PCB pour pouvoir le faire quand il sera nécessaire
+pour le projet
+
+-Test sur le transfert des données du lidar pour afficher sur la fenêtre 'caméra live' en temps réel (un pc simulera la RP5):
+  - position, vitesse
+  - une petite carte en haut de l'écran qui s'actualise tous les Tupdate pour un temps Tupdate
+  - la même map lorsque la fenêtre 'choix d'une position d'arrivée' est affichée
+  - Il faut une IHM avec 4 boutons pour pouvoir commander les moteurs et voir si les différents blocs de commandes 
+s'exécutent correctement.
+  - 

@@ -3,6 +3,10 @@ Fait cette séance :
 -Code pour avoir un retour des encodeurs.
 -Code pour avoir la consommation tension/courant des moteurs (en vu d'un futur dimensionnement de la batterie)
 -Lier RaspberryPi5 et STM32 pour le controle des moteurs à distance (+application?)
+  -fichier linker.ld ;startup.c ;main.c
+  -vérification communication UART bien transmise
+      - 1er test : communication UART stm32-RPi5 et alimentation de la stm32 muni que du câble microUsb relié à la RPi5
+      - 2e test : communication UART stm32-RPi5 avec les gpio de la RPi5 et alimentation stlink avec un autre pc
 -Test des codes pour voir si le robot réalise le chemin souhaité et ajustement du code pour que la distance mesurée soit la même que la distance commandée.
 
 A faire prochaine séance : 

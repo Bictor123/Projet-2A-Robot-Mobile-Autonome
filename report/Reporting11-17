@@ -1,10 +1,13 @@
 
-Fait cette scéance : 
+Fait cette séance : 
 -Code pour avoir un retour des encodeurs.
 -Code pour avoir la consomamtion tension/courant des moteurs (en vu d'un futur dimensionnement de la batterie)
 -Lier RaspberryPi5 et STM32 pour le controle des moteurs à distance (+application?)
 -Test des codes pour voir si le robot réalise le chemin souhaité et ajustement du code pour que la distance mesurée soit la même que la distance commandée.
 
+A faire prochaine séance : 
+
+-Tester les timeouts de la MD25
 ---
 -Au niveau du Lidar on est maintenant capable de connaitre la distance avec laquelle il s'est déplacé donc l'odométrie et 
 également la navigation est assurées: quand on donne une consigne de déplacement il est capable de la suivre.

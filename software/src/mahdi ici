@@ -1,0 +1,31 @@
+self.camera_feed.... par 
+
+
+self.camera_feed = Image(size_hint=(1, 1), fit_mode='contain')
+
+
+replace la méthode udpate_camera_feed... par 
+
+def update_camera_feed(self, dt):
+    #Capture une image de la webcam et l'affiche sur le widget Kivy.
+        if self.capture and self.capture.isOpened():
+            ret, frame = self.capture.read()
+            if ret:
+                # -1 = flip vertical (origine Kivy en bas à gauche)
+                #      + flip horizontal (effet miroir)
+                buf = cv2.flip(frame, -1).tobytes()
+
+                # Réutiliser la texture existante au lieu d'en recréer une à chaque image
+                h, w = frame.shape[:2]
+                if (
+                    self.camera_feed.texture is None
+                    or self.camera_feed.texture.size != (w, h)
+                ):
+                    self.camera_feed.texture = Texture.create(
+                        size=(w, h), colorfmt='bgr'
+                    )
+
+                self.camera_feed.texture.blit_buffer(
+                    buf, colorfmt='bgr', bufferfmt='ubyte'
+                )
+                self.camera_feed.canvas.ask_update()

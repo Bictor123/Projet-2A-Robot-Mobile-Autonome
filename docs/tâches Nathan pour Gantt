@@ -1,0 +1,48 @@
+Administratif
+1. Inventaire des composants importants
+	- Ajout d'un radiateur pour la RPi5
+2. Passer commande 
+
+********************************************************************************************************
+Application : 
+09/29
+1. Développer une application test : jeu de nombre aléatoire à deviner
+06/10
+2. Fin de dévelopmment de l'application test (mais pas converti en apk avec buldozer car prend trop de temps)
+
+20/10
+3. Développement de l'application prototype 
+	Différent fenêtres :
+		- accueil
+		- choix de la vitesse
+		- live caméra
+		- pause
+		- choix d'une position d'arrivée
+	
+	
+	
+	
+	
+
+à faire: 
+1. Établir protocole de communication RPi5-app
+2. Établir protocole de communication lidar - RPi5 - app
+
+(tâches 1. et 2. en une séance)
+
+3. Test de montée en charge réseau : Vérifier que le flux vidéo + données du Lidar ne saturent pas la bande passante Wi-Fi de la RPi 5 (ce qui causerait de la latence sur les boutons de commande) tels que :
+	  - position, vitesse, temps écoulé
+	  - mini carte des obstacles PNG en haut de l'écran qui s'actualise tous les temps Tupdate
+	  - la même mini carte lorsque la fenêtre 'choix d'une position d'arrivée' est affichée
+	  - Il faut une IHM avec 4 boutons pour pouvoir commander les moteurs et voir si les différents blocs 
+	  de commandes s'exécutent correctement.
+(3 séances)
+
+
+4. Ajout sur la fenêtre 'caméra live' :
+	- 4 boutons pour déplacer le robot (vérification de la précision)
+		- avant/arrière à gauche de la fenêtre 
+		- gauche/droite à droite de la fenêtre
+	- Arrêt d'urgence si perte de connexion avec le téléphone au bout d'un temps TconnectionLost
+	- Indicateur de connexion
+(1/2 séance)

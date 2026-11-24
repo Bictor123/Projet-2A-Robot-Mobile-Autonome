@@ -1,0 +1,29 @@
+# Rapport de séance — mardi 24 novembre 2026
+
+## Objectifs de la séance
+
+- Établir la communication avec la MD25
+- Établir la connexion entre la Raspberry Pi et la STM32
+- Avancer sur l'application mobile
+
+## Travail réalisé et difficultés rencontrées
+
+- Connexion de la STM32 à la MD25 et premier test 
+- Ressoudure des câbles des moteurs des roues : soudures difficiles, à reprendre
+- Écriture du code de connexion entre la Raspberry Pi et la STM32 (pas encore testé)
+- Finalisation du diagramme de Gantt, relu et validé par tout le groupe
+- Amélioration de l'interface de l'application et début du back-end
+
+## À faire pour la prochaine séance
+
+| Tâche | Responsable |
+
+ Reprendre les soudures pour que le robot roule correctement | Victor et Romain |
+ Tester la connexion entre la Raspberry Pi et la STM32 | Isabelle et Bryan |
+ Terminer le code de l'application (version sans ROS) et eventuelement Tester dans la RasberryPi| Nathan et Mahdi, Bryan |
+
+
+
+Rapport rédigé par Bryan Fongang, chef de projet.
+
+

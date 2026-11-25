@@ -1,10 +1,10 @@
-impact environemental et societale
+impact environemental et societal
 
 1) globaux
-projets dans les salles de l'ensea
+projet dans les salles de l'ensea
 utilisation de logiciels (github, onshape, etc...)
-impact environnemental des deplacement/transport
-2) par taches
+impact environnemental des deplacements/transports
+2) par taches (environnementaux)
 impact : 
 - du prototype (impression 3D, soudure, alimentation)
 - du robot (impression, moteurs, pcb, soudure, alimentation, batterie (aussi plus bas), roues)
@@ -12,11 +12,17 @@ impact :
 - des capteurs (lidar, imu, encodeurs, camera live, application mobile, IHM, minimap en temps réel)
 - des programmes/algorithmes utilisé (ROS, Gazebo, STM32, VM, (Raspberry), SLAM, Nav2)
 Alimentation : cables d alimentation, batterie, cables pour lier les cartes/capteurs
+(Origines des matériaux utilisé pour les cartes de commandes)
 
+recyclabilité : faire des pièces détachées pour faciliter la réparation
+dechets des impressions 3D
+des materiaux electroniques (capteurs, cartes)
 
 
 
 Societaux :
+evite les humains, pas de degats humain/matériaux
+camera live : fuites de données
 application adapté pour tous (simple, daltonien, malvoyant, malentendant, probleme moteur)
 Bruit des moteurs, visuel du robot
 (Origines des matériaux utilisé pour les cartes de commandes)

@@ -1,1 +1,21 @@
 impact environemental et societale
+
+1) globaux
+projets dans les salles de l ensea
+utilisation de github, onshape, etc...
+transport "huamin" comment on se déplace pour venir
+
+2) par taches
+impact du prototype (impression 3D, soudure, alimentation)
+impact du robot (impression, moteurs, pcb, soudure, alimentation, batterie (aussi plus bas), roues)
+impact des cartes (raspberry, stm, md25, drivers)
+impact des capteurs (lidar, imu, encodeurs, camera live, application mobile, IHM, minimap en temps réel)
+impact des programmes/algorithmes utilisé (ROS, Gazebo, STM32, VM, (Raspberry), SLAM, Nav2)
+Alimentation : cables d alimentation, batterie, cables pour lier les cartes/capteurs
+
+
+
+
+Societaux :
+application adapté pour tous (daltonien, malvoyant, malentendant, probleme moteur)
+Bruit des moteurs, visuel du robot
